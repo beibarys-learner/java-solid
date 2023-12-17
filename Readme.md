@@ -23,3 +23,11 @@
 3. L: Liskov Substitution Principle (Принцип подстановки (заменяемости) Барбары Лисков).
 4. I: Interface Segregation Principle (Принцип разделения интерфейса).
 5. D: Dependency Inversion Principle (Принцип инверсии зависимостей).
+
+## Recommended materials to practice
+1. https://www.youtube.com/watch?v=G6LJkWwZGuc
+2. https://www.youtube.com/watch?v=StWB7NJjPZc
+3. https://www.baeldung.com/solid-principles
+4. https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
+5. https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+6. https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html
