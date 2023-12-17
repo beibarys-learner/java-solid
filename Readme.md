@@ -16,13 +16,13 @@
 
 ## Definition about SOlID
 
-По первым буквам каждого пункта:
+По первым буквам каждого пункта, рядом объяснение Роберта Мартина:
 
-1. S: Single Responsibility Principle (Принцип единственной ответственности).
-2. O: Open-Closed Principle (Принцип открытости-закрытости).
-3. L: Liskov Substitution Principle (Принцип подстановки (заменяемости) Барбары Лисков).
-4. I: Interface Segregation Principle (Принцип разделения интерфейса).
-5. D: Dependency Inversion Principle (Принцип инверсии зависимостей).
+1. S: Single Responsibility Principle (Принцип единственной ответственности). A class should have one, and only one, reason to change.
+2. O: Open-Closed Principle (Принцип открытости-закрытости). A module should be open for extension but closed for modification.
+3. L: Liskov Substitution Principle (Принцип подстановки (заменяемости) Барбары Лисков). Subclasses should be substitutable for their base classes.
+4. I: Interface Segregation Principle (Принцип разделения интерфейса). Many client specific interfaces are better than one general purpose interface
+5. D: Dependency Inversion Principle (Принцип инверсии зависимостей). Depend upon Abstractions. Do not depend upon concretions.
 
 ## Recommended materials to practice
 1. https://www.youtube.com/watch?v=G6LJkWwZGuc
