@@ -6,12 +6,14 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         Developer dev1 = new DeveloperJava();
-        Developer dev2 = new Developer();
+        Developer dev2 = new DeveloperJS();
+        Developer dev3 = new DeveloperKotlin();
 
         List<Developer> devList = new ArrayList<>();
         devList.add(dev1);
         devList.add(dev2);
-
+        devList.add(dev3);
+    }
         public static void showReaction(List<Developer> devList) {
 
             for (Developer dev : devList) {
@@ -28,4 +30,3 @@ public class Main {
         }
 
     }
-}
