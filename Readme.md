@@ -31,3 +31,11 @@
 4. https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
 5. https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
 6. https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html
+
+## Other principles
+1. DRY
+2. KISS
+3. YAGNI
+4. GRASP
+
+Go and study this guide https://habr.com/ru/companies/itelma/articles/546372/
